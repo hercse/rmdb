@@ -1,2 +1,2 @@
-# emdb
-Exhaustive Material Database
+# rmdb
+Research Material Database
